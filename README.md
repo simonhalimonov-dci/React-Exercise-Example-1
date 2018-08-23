@@ -15,6 +15,6 @@ Like this: This is an exercise I did at school with my favourite teacher Simon H
 5. Push the local repository to the remote with `git push master origin`
 
 ### How to set up GitHub Pages for an existing repository
-Link: [GitHub Pages](https://pages.github.com/)
+Link: [Setting up GitHub Pages with create-react-app](https://medium.com/@_mariacheline/deploy-create-react-app-project-to-github-pages-2eb6deda5b89)
 
-1. Create a new branch called `gh-pages` with `git branch gh-pages`
+You will have to go to your repository and update the GitHub Pages settings to the right branch.
